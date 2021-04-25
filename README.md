@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Founder at **Fig** - [withfig.com](withfig.com)
+
+Feel free to say hi: brendan AT withfig DOT com
+
 <!--
 **falky97/falky97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
