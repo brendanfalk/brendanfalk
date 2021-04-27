@@ -1,20 +1,13 @@
-### Hi there 👋
+### 👋 Hi there, I'm Brendan Falk
 
-Founder at **Fig** - [withfig.com](withfig.com)
+I am the co-founder & CEO of [Fig](https://withfig.com?ref=github_brendan_profile_page)
 
-Feel free to say hi: brendan AT withfig DOT com
 
-<!--
-**falky97/falky97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 I am from Australia 🦘 and now live in SF 🌉
+- 👍 I went to College at [Harvard](harvard.edu) and worked at [Brex](brex.com)
+- 📫 You can find me on twitter [Twitter](https://twitter.com/brendanfalk), [LinkedIn](https://www.linkedin.com/in/brendanfalk) and [email](mailto:brendan@withfig.com)
 
-Here are some ideas to get you started:
+**Languages:**  
+javascript (node/express, react, vuejs) bash python (and a little bit of everything)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![brendan's github stats](https://github-readme-stats.vercel.app/api?username=falky97&show_icons=true&hide=[%22issues%22])
