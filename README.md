@@ -10,4 +10,4 @@ I am the co-founder & CEO of [Fig](https://withfig.com?ref=github_brendan_profil
 **Languages:**  
 javascript (node/express, react, vuejs) bash python (and a little bit of everything)
 
-![brendan's github stats](https://github-readme-stats.vercel.app/api?username=falky97&show_icons=true&hide=[%22issues%22])
+![brendan's github stats](https://github-readme-stats.vercel.app/api?username=brendanfalk&show_icons=true&hide=[%22issues%22])
