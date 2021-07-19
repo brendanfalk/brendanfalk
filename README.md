@@ -8,6 +8,6 @@ I am the co-founder & CEO of [Fig](https://withfig.com?ref=github_brendan_profil
 - 📫 You can find me on [Twitter](https://twitter.com/brendanfalk), [LinkedIn](https://www.linkedin.com/in/brendanfalk) and [email](mailto:brendan@withfig.com)
 
 **Languages:**  
-javascript (node/express, react, vuejs) bash python (and a little bit of everything)
+javascript (node, express, react, vuejs) bash, python (and a little bit of everything)
 
 ![brendan's github stats](https://github-readme-stats.vercel.app/api?username=brendanfalk&show_icons=true&hide=[%22issues%22])
