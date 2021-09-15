@@ -8,6 +8,9 @@ I am the co-founder & CEO of [Fig](https://fig.io?ref=github_brendan_profile_pag
 - 📫 You can find me on [Twitter](https://twitter.com/brendanfalk), [LinkedIn](https://www.linkedin.com/in/brendanfalk) and [email](mailto:brendan+gh@fig.io)
 
 **Languages:**  
-javascript (node, express, react, vuejs) bash, python (and a little bit of everything)
+javascript/typescript (node, express, react, nextjs) bash, python (and a little bit of everything)
+
+**Stats**
+![](https://komarev.com/ghpvc/?username=brendanfalk)
 
 ![brendan's github stats](https://github-readme-stats.vercel.app/api?username=brendanfalk&show_icons=true&hide=[%22issues%22])
