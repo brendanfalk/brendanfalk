@@ -1,5 +1,4 @@
-### 👋 Hi there, I'm Brendan Falk
-
+### 👋 Hi there, I'm Brendan 
 
 - Current: I am the co-founder & CEO of [Hercules](https://hercules.app). Hercules makes it easy to build apps and website by chatting with AI 
 - Prev work: I was previously founder of AI Dev tools company, [Fig](https://fig.io?ref=github_brendan_profile_page). It was [acquired by AWS](https://fig.io/blog/post/fig-joins-aws) in 2023 and became Amazon Q Developer (Amazon's AI coding assistant)
